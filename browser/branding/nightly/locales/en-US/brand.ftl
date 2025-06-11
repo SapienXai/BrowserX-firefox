@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-## Firefox and Mozilla Brand
+## BrowserX and Mozilla Brand
 ##
-## Firefox and Mozilla must be treated as a brand.
+## BrowserX and Mozilla must be treated as a brand.
 ##
 ## They cannot be:
 ## - Transliterated.
@@ -18,10 +18,10 @@
 
 -brand-shorter-name = Nightly
 -brand-short-name = Nightly
--brand-shortcut-name = Firefox Nightly
--brand-full-name = Firefox Nightly
+-brand-shortcut-name = BrowserX Nightly
+-brand-full-name = BrowserX Nightly
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
--brand-product-name = Firefox
+-brand-product-name = BrowserX
 -vendor-short-name = Mozilla
 trademarkInfo = { " " }
