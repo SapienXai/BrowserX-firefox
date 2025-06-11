@@ -2,6 +2,12 @@
 
 BrowserX is an **AI-first**, open-source browser built for agents, not humans. It empowers autonomous digital labor with an agent-first architecture, profile‑based session isolation, and advanced task scheduling. This repository contains the BrowserX engine implementation. If you need the Chromium engine variant, see [BrowserX-chromium](https://github.com/SapienXai/BrowserX-chromium).
 
+HOW to RUN for macOS: 
+./mach bootstrap
+./mach build
+./mach run
+
+
 [BrowserX](https://firefox.com/) remains a fast, reliable and private web browser from the non-profit [Mozilla organization](https://mozilla.org/).
 
 ### Contributing
